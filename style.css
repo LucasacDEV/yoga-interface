@@ -89,13 +89,14 @@ p{text-align: center;}
     text-align: center;
     margin:18px auto 80px auto ;
 }
+a {
+    text-decoration: none;
+}
 
 .img-link {
     margin:0 18px;
     text-decoration: none;
 }
 
-a {
-    text-decoration: none;
-}
+
 
